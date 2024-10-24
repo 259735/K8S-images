@@ -1,2 +1,2 @@
-# zzy-amd64
-用于拉去OpenEuler镜像
+# K8S-images
+用于拉取OpenEuler镜像
