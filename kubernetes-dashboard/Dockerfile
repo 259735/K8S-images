@@ -1,1 +1,1 @@
-FROM lizhenliang/kubernetes-dashboard-amd64:v1.10.1
+FROM kubernetesui/dashboard:v2.0.0
