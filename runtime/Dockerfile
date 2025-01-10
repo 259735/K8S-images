@@ -1,1 +1,1 @@
-FROM mathworks/matlab:r2021a
+FROM matlab/runtime
