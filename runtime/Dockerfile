@@ -1,1 +1,1 @@
-FROM mathworks/Matlab_Runtime:r2023b
+FROM matlab:r2023b
